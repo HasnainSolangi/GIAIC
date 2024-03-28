@@ -18,4 +18,3 @@ Feel free to agree or disagree — it's your choice.
     Variable 1: email 
     Variable 2: password
 11) Statements: if / else 
-12) Last step: shebang, npm login and npm publish.

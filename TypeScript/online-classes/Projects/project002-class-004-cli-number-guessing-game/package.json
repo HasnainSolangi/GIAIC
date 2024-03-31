@@ -1,0 +1,19 @@
+{
+  "name": "cli-num-guessing-game",
+  "version": "1.0.0",
+  "description": "CLI Number Guessing Game - Implemented TypeScript using VS Code, compiled with tsc, and managed with npm. Players guess a randamly generated number within a specified range in the command prompt.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnain-Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

@@ -14,8 +14,8 @@ Feel free to agree or disagree — it's your choice.
         28 "module": "NodeNext", 
         30 "moduleResolution": "NodeNext", 
 9) Add "type": "module" below "main": "index.js" in package.json.
-10) Start coding.
-    Variable 1: email 
+10) Start coding.<p>
+    Variable 1: email <p>
     Variable 2: password
 11) Statements: if / else 
 12) Last step: shebang, npm login and npm publish.

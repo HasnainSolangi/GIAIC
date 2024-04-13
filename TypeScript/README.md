@@ -1,7 +1,7 @@
 
-# 🚀 Welcome to my TypeScript learning journey! This repository is a comprehensive collection of coursework and projects completed as part of the Governor Initiative for Artificial Intelligence, Web 3.0, and Metaverse Developer/Solopreneur <p> Certified Cloud Applied Generative Artificial Intelligence Engineer. 🎓
+## 🚀 Welcome to my TypeScript learning journey! This repository is a comprehensive collection of coursework and projects completed as part of the Governor Initiative for Artificial Intelligence, Web 3.0, and Metaverse Developer/Solopreneur <p> Certified Cloud Applied Generative Artificial Intelligence Engineer. 🎓
 
-## 📘 Inside this repository, you'll find directories dedicated to each aspect of the learning journey, including:
+### 📘 Inside this repository, you'll find directories dedicated to each aspect of the learning journey, including:
 
 - **Onsite Classes**: Dive into materials, notes, and code from the onsite classes, providing an in-depth exploration of TypeScript fundamentals and advanced concepts. 💻
 

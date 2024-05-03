@@ -4,7 +4,6 @@
   "description": "Developing an ATM system accessible via command line interface, facilitating banking transactions and inquiries using straightforward commands and prompts.",
   "main": "index.js",
   "type": "module",
-  "bin":   "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

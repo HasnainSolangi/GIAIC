@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for "Ramadan Coding Nights & Live Code Sessios", a special initiative by the Governor Sindh Initiative for GenAI, Web3, and Metaverse. This project aims to provide live programming support sessions led by expert instructors, including Sir Zia Khan, Sir Daniyal Nagori, Sir Ameen Alam, Sir Muhammad Qasim, and many more.
 
-**Note:** In my TypeScript projects, I don't include shebang lines or bin files as TypeScript code is compiled to JavaScript before execution."
+**Note:** In my TypeScript projects, I don't include shebang lines or bin files as TypeScript code is compiled to JavaScript before execution.
 
 ## Schedule 📜 
 

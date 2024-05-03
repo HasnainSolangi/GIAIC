@@ -4,7 +4,6 @@
   "description": "CLI Number Guessing Game - Implemented TypeScript using VS Code, compiled with tsc, and managed with npm. Players guess a randamly generated number within a specified range in the command prompt.",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

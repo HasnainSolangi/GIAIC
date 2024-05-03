@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 /* Project Objectives:
 
 1) Please Input your PIN - 12345 - DONE

@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 /*  -:To-Do List Home Work Assignment with Chalk:-
     *Project Objectives*
     . Add

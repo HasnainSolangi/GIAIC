@@ -178,7 +178,11 @@ inquirer.prompt([
 - Contributions are welcome! Feel free to submit pull requests or open issues.
 
 - Give it a try and let us know your feedback! 🚀
-
+___
+**NOTE** `Update` Remove shebang line<p>
+#! /usr/bin/env node
+// This line is called a Shebang, it tells the OS to run it with node.js
+___
 #### Name:- Hasnain Ahmed 
 #### Roll No:- 00310538
 #### Quarter:- 1

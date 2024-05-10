@@ -162,8 +162,7 @@ function myFunc(): string {
 
 # Class work by Sir Isfhan Ahmed & Ma'am Manaheel Jameel.
 
-```
-function admitCard(
+```function admitCard(
     name: string,   // parameter
     rollNumber: number, // parameter
     courseName: string = "Typescript", // parameter with default value
@@ -174,8 +173,8 @@ function admitCard(
     console.log('#------------------------#');
 
     console.log("Name: " + name + "\n" + `Roll Number: ${rollNumber}` + "\n" + "Course Name: " + courseName);
-
-
+```
+```
     // check if phone is not undefined
     if (phone) {
         console.log("Phone Number: " + phone);
@@ -183,7 +182,8 @@ function admitCard(
 
     console.log('#------------------------#');
 }
-
+```
+```
 // invoke function
 admitCard("Hasnain Ahmed", 62465, "Next.js", 1234567890) // argument
 admitCard("Mirza Solangi", 26625, undefined, 9876543210) // argument with default value 
@@ -210,7 +210,8 @@ const studentsList = [
     },
 ]
 
-
+```
+```
 // loop through array of object
 for (const student of studentsList) {
 
@@ -219,9 +220,8 @@ for (const student of studentsList) {
 }
 ```
 
-
+Ma'am Manahil tea function
 ```
-// Ma'am Manahil tea function
 function makeTea(sugar: number = 4, milk: number, water?: number): void {
     let tea = 2 + sugar + milk;
     console.log(tea);
@@ -229,4 +229,6 @@ function makeTea(sugar: number = 4, milk: number, water?: number): void {
 
 makeTea(undefined, 2, undefined); // Function call with default sugar, 2 units of milk, and undefined water
 makeTea(1, 3, undefined); // Function call with 1 unit of sugar, 3 units of milk, and undefined water
-```
+
+``````
+

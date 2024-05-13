@@ -55,12 +55,17 @@ The project sessions were integrated into the program and completed along with t
 ___
 **Please Note:** The Ramadan Coding Nights sessions have concluded as Ramadan has ended. We are now looking forward to another initiative for online sessions.
 ___
-# Live Code Sessions
+# Home Work Projects.
 
-## Home Work Projects
+#### **Project 007**: `Student Management System`
+- Access the package through your terminal:- `npx cli-student-management-system-tool`
 
-### project06_student_management_system
-### project07_adventure_game
+#### **Project 008**: `Text-Based Adventure Game`
+- Run the package on terminal:- `npx solangi-adventure-game`
+
+
+## In Sha Allah.
+
 ### project08_quiz
 ### project09_countdown_timer
 ### project10_oop

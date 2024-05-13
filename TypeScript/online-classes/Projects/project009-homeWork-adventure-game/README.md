@@ -1,7 +1,5 @@
 # Solangi Adventure Game
 
-`npx solangi-adventure-game`
-
 Welcome to the Adventure Game, a text-based CLI game written in TypeScript.
 
 ## Features
@@ -27,6 +25,8 @@ To run the game locally, follow these steps:
 3. Run the game using `npm start`.
 
 ## Usage
+
+`npx solangi-adventure-game`
 
 - Enter your name when prompted.
 - Select an opponent from the list.

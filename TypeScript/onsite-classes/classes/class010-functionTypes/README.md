@@ -10,7 +10,7 @@ This Directory contains examples of various function declarations, invocations, 
 5. [Default and Optional Parameters](#default-and-optional-parameters)
 6. [Arrow Functions](#arrow-functions)
 7. [Rest Parameters](#rest-parameters)
-8. [Self-Invoking Functions](#self-invoking-functions)
+8. [Self Invoking Functions](#self-invoking-functions)
 9. [Hoisted Functions](#hoisted-functions)
 
 ## Getting Started

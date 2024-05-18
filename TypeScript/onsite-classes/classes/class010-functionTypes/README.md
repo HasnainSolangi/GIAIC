@@ -10,7 +10,7 @@ This Directory contains examples of various function declarations, invocations, 
 5. [Default and Optional Parameters](#default-and-optional-parameters)
 6. [Arrow Functions](#arrow-functions)
 7. [Rest Parameters](#rest-parameters)
-8. [Self Invoking Functions](#self-invoking-functions)
+8. [Self-Invoking Functions](#self-invoking-functions)
 9. [Hoisted Functions](#hoisted-functions)
 
 ## Getting Started
@@ -110,7 +110,7 @@ const total: number = sum(1, 2, 3, 4, 5);
 console.log("Total:", total);
 
 ```
-## elf-Invoking Functions
+## Self-Invoking Functions
 Self-invoking functions (also known as Immediately Invoked Function Expressions, IIFE) are functions that are executed as soon as they are defined.
 
 ```

@@ -4,8 +4,8 @@ This Directory contains examples of various function declarations, invocations, 
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [Basic Function Declarations](#basicFunctionDeclarations)
-3. [Functions with Parameters](#functionsWithParameters)
+2. [Basic Function Declarations](#basic-function-declarations)
+3. [Functions with Parameters](#functions-with-parameters)
 4. [Functions with Return Types](#functions-with-return-types)
 5. [Default and Optional Parameters](#default-and-optional-parameters)
 6. [Arrow Functions](#arrow-functions)

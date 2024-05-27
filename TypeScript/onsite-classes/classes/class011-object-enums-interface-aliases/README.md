@@ -3,16 +3,19 @@
 This repository contains examples of how to define and use objects and enums in TypeScript.
 
 ## Table of Contents 📑
-A)
+**A)**
 - [Object](#object) 🏷️
-- [NaN Issue and Its Resolution](#example-demonstrating-NaN-issue-with-arrow-functions) 🚫🔄
-B)
+- [NaN Issue and Its Resolution](#example-demonstrating-nan-issue-with-arrow-functions) 🚫🔄
+
+**B)**
 - [Enums](#enums) 🧮
 - [Mixing Types](#mixing-types) 🤹‍♂️
 - [Key Points](#key-points) 🔑
-C)
-- [Interfaces](Interfaces) 🔌
-- [Type Aliases](Type-Aliases) 🔤
+
+**C)**
+- [Interfaces](#interfaces) 🔌
+- [Type Aliases](#type-aliases) 🔤
+
 
 ## Object 🏷️
 

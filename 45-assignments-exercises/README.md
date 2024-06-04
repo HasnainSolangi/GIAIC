@@ -1,14 +1,16 @@
-# Getting Started Exercises with TypeScript and Node.js
+# 45-Exercises-Assignments with TypeScript and Node.js
 
-Note: Try these short programs to get some firsthand experience with TypeScript and Node.js.
-You might want to create a new folder for each exercise to keep them organized. Create a single Github repository to commit the code for these exercises and once finished submit the URL of the repo. 
+(Add Short definition of TS and Node.js)
+
+**Note:** Try these short programs to get some firsthand experience with TypeScript and Node.js.
+You might want to create a new folder for each exercise to keep them organized. Create a single GitHub repository to commit the code for these exercises and once finished submit the URL of the repo. 
 
 1. Install [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/download)  and [VS Code](https://code.visualstudio.com/) on your computer.
 
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
 would you like to learn some Python today?”
 
-3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
+3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and title case.
 
 4. Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the
 following, including the quotation marks:
@@ -40,7 +42,7 @@ Your output should simply be four lines with the number 8 appearing once on each
 because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence
 describing what the program does.
 
-11. Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
+11. Names: Store the names of a few of your friends in an array called names. Print each person’s name by accessing each element in the list, one at a time.
 
 12. Greetings: Start with the array you used in Exercise 11, but instead of just printing each person’s name, print a message to them. The text of each message
 should be the same, but each message should be personalized with the person’s name.
@@ -90,7 +92,7 @@ of your program.
 
 18. Seeing the World: Think of at least five places in the world you’d like to visit.
 
-• Store the locations in a array. Make sure the array is not in alphabetical order.
+• Store the locations in an array. Make sure the array is not in alphabetical order.
 
 • Print your array in its original order.
 
@@ -114,7 +116,7 @@ order has changed.
 19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number
 of people you are inviting to dinner.
 
-20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything
+20. Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything
 else you’d like. Write a program that creates a list containing these items.
 
 21. They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
@@ -141,19 +143,20 @@ console.log(car == 'subaru')
 
 • Tests for equality and inequality with strings
 
-• Tests using the lower case function
+• Tests using the lowercase function
 
 • Numerical tests involving equality and inequality, greater than and less than, greater than or equal to, and less than or equal to
 
 • Tests using "and" and "or" operators
 
-• Test whether an item is in a array
+• Test whether an item is in an array
 
-• Test whether an item is not in a array
+• Test whether an item is not in an array
 
 
-25. Alien Colors #1: Imagine an alien was just shot down in a game. Create a
-variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
+25. Alien Colors #1: Imagine an alien was just shot down in a game.
+
+Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
 
 • Write an if statement to test whether the alien’s color is green. If it is, print
 a message that the player just earned 5 points.
@@ -195,15 +198,15 @@ write an if-else chain.
 
 • If the person is age 65 or older, print a message that the person is an elder.
 
-29. Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.
+29. Favorite Fruit: Make an array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.
 
-• Make a array of your three favorite fruits and call it favorite_fruits.
+• Make an array of your three favorite fruits and call it favorite_fruits.
 
 • Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement,
 such as You really like bananas!
 
 
-30. Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user
+30. Hello Admin: Make an array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user
 after they log in to a website. Loop through the array, and print a greeting to each user:
 
 • If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
@@ -225,9 +228,9 @@ after they log in to a website. Loop through the array, and print a greeting to 
 • Loop through the new_users list to see if each new username has already been used. If it has, print a message that the person will need to enter a
 new username. If a username has not been used, print a message saying that the username is available.
 
-• Make sure your comparison is case insensitive. If 'John' has been used, 'JOHN' should not be accepted.
+• Make sure your comparison is case-insensitive. If 'John' has been used, 'JOHN' should not be accepted.
 
-33. Ordinal Numbers: Ordinal numbers indicate their position in a array, such as 1st or 2nd. Most ordinal numbers end in th, except 1, 2, and 3.
+33. Ordinal Numbers: Ordinal numbers indicate their position in an array, such as 1st or 2nd. Most ordinal numbers end in th, except 1, 2, and 3.
 
 • Store the numbers 1 through 9 in a array.
 
@@ -238,7 +241,7 @@ new username. If a username has not been used, print a message saying that the u
 
 
 34. Pizzas: Think of at least three kinds of your favorite pizza. Store these
-pizza names in a array, and then use a for loop to print the name of each pizza.
+pizza names in an array, and then use a for loop to print the name of each pizza.
 
 • Modify your for loop to print a sentence using the name of the pizza
 instead of printing just the name of the pizza. For each pizza you should
@@ -289,8 +292,8 @@ that’s returned.
 
 
 40. Album: Write a function called make_album() that builds a Object
-describing a music album. The function should take in an artist name and an
-album title, and it should return a Object containing these two pieces of
+describing a music album. The function should take in an artist's name and an
+album title, and it should return an Object containing these two pieces of
 information. 
 
 • Use the function to make three dictionaries representing different
@@ -303,7 +306,7 @@ of tracks, add that value to the album’s Object. Make at least one new
 function call that includes the number of tracks on an album.
 
 
-41. Magicians: Make a array of magician’s names. Pass the array to a function
+41. Magicians: Make an array of magician’s names. Pass the array to a function
 called show_magicians(), which prints the name of each magician in the array.
 
 42. Great Magicians: Start with a copy of your program from Exercise 39.
@@ -318,14 +321,14 @@ Call show_magicians() with each array to show that you have one array of the ori
 names and one array with the Great added to each magician’s name.
 
 
-44. Sandwiches: Write a function that accepts a array of items a person wants
+44. Sandwiches: Write a function that accepts an array of items a person wants
 on a sandwich. The function should have one parameter that collects as many
 items as the function call provides, and it should print a summary of the sandwich
 that is being ordered. Call the function three times, using a different number
 of arguments each time.
 
 
-45. Cars: Write a function that stores information about a car in a Object.
+45. Cars: Write a function that stores information about a car in an Object.
 The function should always receive a manufacturer and a model name. It
 should then accept an arbitrary number of keyword arguments. Call the function
 with the required information and two other name-value pairs, such as a
@@ -334,6 +337,16 @@ Print the Object that’s returned to make sure all the information was
 stored correctly.
 
 
+#### *Happy Coding*
 
+##### Name:- Hasnain Ahmed 
+##### Roll No:- 00310538
+##### Quarter:- 1
+##### Batch:- 1
+##### City:- Karachi
+##### Centre:- Sindh Governor House Karachi
+##### Campus:- Main
+##### Days/Time:- Wednesday 09:00 am - 12:00 pm
 
-
+[LinkedIn - Hasnain Ahmed](https://www.linkedin.com/in/hasnainahmed90s/)<p>
+[Governor Sindh Initiative for GenAI, Web3, and Metaverse](https://www.linkedin.com/company/governor-sindh-initiative/mycompany/)

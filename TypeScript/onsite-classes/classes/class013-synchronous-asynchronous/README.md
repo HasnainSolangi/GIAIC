@@ -1,6 +1,6 @@
 # Synchronous programming and Asynchronous Programming
 
-**Objective:** 
+**Objective:** <p>
 This README aims to provide a comprehensive understanding of synchronous and asynchronous programming paradigms, their differences, advantages, and practical examples. It covers key concepts such as `setTimeout`, `callbacks`, `promises`, and `async/await`, illustrating how each contributes to asynchronous programming. Additionally, it includes a comparison table illustrating various aspects of synchronous and asynchronous operations. Furthermore, examples of common asynchronous programming techniques are provided, along with a brief introduction to the author.
 
 ## Table of Contents

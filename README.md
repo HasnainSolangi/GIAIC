@@ -62,9 +62,24 @@ This comprehensive course in cloud-based artificial intelligence development off
 Mastering the Applied GenAI Cloud Development Stack not only equips individuals with the requisite skills for success in the dynamic realms of artificial intelligence, web development, and the metaverse but also empowers them to address real-world challenges and foster innovation. By integrating state-of-the-art technologies with industry best practices, this course cultivates a deep understanding of AI development principles and methodologies.
 Whether your aspirations lie in creating groundbreaking AI applications, reshaping user experiences, or driving technological advancements, this transformative learning journey paves the way for realizing your ambitions. Embrace this opportunity to unlock limitless possibilities in the vibrant world of GenAI development, where innovation knows no bounds.
 
+___
+
+##### Name:- Hasnain Ahmed 
+##### Roll No:- 00310538
+##### Quarter:- 2
+##### Batch:- 1
+##### City:- Karachi
+##### Centre:- Sindh Governor House Karachi
+##### Campus:- Main
+##### Days/Time:- Saturday 09:00 am - 12:00 pm
 
 #### *Happy Coding*
 
+[LinkedIn - Hasnain Ahmed](https://www.linkedin.com/in/hasnainahmed90s/)<p>
+[Governor Sindh Initiative for GenAI, Web3, and Metaverse](https://www.linkedin.com/company/governor-sindh-initiative/mycompany/)
+
+
+___
 ##### Name:- Hasnain Ahmed 
 ##### Roll No:- 00310538
 ##### Quarter:- 1
@@ -73,6 +88,3 @@ Whether your aspirations lie in creating groundbreaking AI applications, reshapi
 ##### Centre:- Sindh Governor House Karachi
 ##### Campus:- Main
 ##### Days/Time:- Wednesday 09:00 am - 12:00 pm
-
-[LinkedIn - Hasnain Ahmed](https://www.linkedin.com/in/hasnainahmed90s/)<p>
-[Governor Sindh Initiative for GenAI, Web3, and Metaverse](https://www.linkedin.com/company/governor-sindh-initiative/mycompany/)

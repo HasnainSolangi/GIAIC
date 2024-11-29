@@ -64,14 +64,14 @@ ___
 - Run the package on terminal:- `npx solangi-adventure-game`
 
 
-## In Sha Allah.
+---
 
 ### project08_quiz
 ### project09_countdown_timer
 ### project10_oop
 ### project11_oop_mybank
 ___DONE Alhamdulillah.
-
+---
 
 
 
